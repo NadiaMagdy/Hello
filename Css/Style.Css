@@ -1,0 +1,22 @@
+
+body { background: center fixed ; 
+ background-image: url('img3.jpg' ) ; 
+ margin: 10px; }
+
+h1 { color: blue }
+h1{font-size: 30px;}
+h2 { color: green}
+h2 {font-size: 40px;
+line-height:15px; }
+h3 { color: blue }
+h3{font-size: 30px;}
+p { color: purple} 
+ P{line-height: 10PX; 
+  font-size: 24px; 
+ 	margin: 10px;  }
+
+input { right: inherit }
+input { justify-content: center }
+input { color: green }
+input { border-width: medium }
+#img { width: 100% }
